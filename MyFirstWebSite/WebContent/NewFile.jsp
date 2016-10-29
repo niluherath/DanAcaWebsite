@@ -84,7 +84,7 @@ text-decoration:none;
 <div id="top"></div>
 <div id="bottom"></div>
 
-<h1 align="center">Srilanka Dancing Academy Alumni Group</h1>
+<h1 align="center">XXXXXXXX Alumni Group</h1>
 <header><center><img align= "middle" src = "dancing.png" height = "170px" width = "600"></center></header>
 
 <ul id="nav">
